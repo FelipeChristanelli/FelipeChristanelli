@@ -32,7 +32,7 @@ Me Chamo Felipe Christanelli e estou trilhando caminho para me tornar um Cientis
 
 Amo viajar 🛫
 Estar com amigos e Família 🍷
-e Praticar o bem 🙏🏻
+e Praticar o bem 🙏
 
 
 
