@@ -8,14 +8,8 @@ Me Chamo Felipe Christanelli e estou trilhando caminho para me tornar um Cientis
 
 • Cursando a Formação Cientista de Dados.
 
-• Quebrei paradigmas aprendendo Linguagem Python;
-
-• Realizei aplicações em Linguagem SQL;
-
-• Compreendendo e utilizando Linguagem R;
-
+• Quebrei paradigmas aprendendo Linguagem Python; Compreendendo R;
 • Conhecendo propriedades do Azure Machine Learning além de
-
 • Exercícios de Big Data na Prática com Modelos de Machine Learning.
 
 ### Na sequência do Aprendizado
