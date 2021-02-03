@@ -9,19 +9,16 @@ Me Chamo Felipe Christanelli e estou trilhando caminho para me tornar um Cientis
 • Cursando a Formação Cientista de Dados na Data Science Academy onde:
 - Quebrei paradigmas aprendendo Linguagem Python;
 - Linguagem Estatística R;
+- Modelos de Machine Learning;
 - Propriedades do Azure Machine Learning além de
-Exercícios de Big Data na Prática com Modelos de Machine Learning.
-- Processamento de Dados com Python com Spark (PySpark): Spark SQL, Spark Streaming, Spark MLlib
+Exercícios de Big Data na Prática com Modelos de Machine Learning;
+- Processamento de Dados Python com Spark (PySpark): Spark SQL, Spark Streaming, Spark MLlib.
 
 ### Na sequência do Aprendizado
 • Aplicações Business Analytics
-
 • Engenharia de Dados com Hadoop e Spark;
-
 • Machine Learning e 
-
 • Visualização de Dados e Design de Dashboards.
-
 
 Amo viajar 🛫
 Estar com amigos e Família 🍷
