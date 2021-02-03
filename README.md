@@ -2,19 +2,18 @@
 
 Me Chamo Felipe Christanelli e estou trilhando caminho para me tornar um Cientista de Dados
 
-• Pós-Graduando em Big Data Analitycs e Inteligência Artificial;
+• Pós-Graduando em Big Data Analitycs e Inteligência Artificial pela FIA (Fundação Instituto de Administração);
 
 • Graduado em Engenharia Química e 
 
-• Cursando a Formação Cientista de Dados.
-
-• Quebrei paradigmas aprendendo Linguagem Python; Linguagem Estatística R;
-Conheci propriedades do Azure Machine Learning além de
+• Cursando a Formação Cientista de Dados na Data Science Academy onde:
+- Quebrei paradigmas aprendendo Linguagem Python;
+- Linguagem Estatística R;
+- Propriedades do Azure Machine Learning além de
 Exercícios de Big Data na Prática com Modelos de Machine Learning.
+- Processamento de Dados com Python com Spark (PySpark): Spark SQL, Spark Streaming, Spark MLlib
 
 ### Na sequência do Aprendizado
-• Big Data Real-Time Analytics com Python e Spark;
-
 • Aplicações Business Analytics
 
 • Engenharia de Dados com Hadoop e Spark;
