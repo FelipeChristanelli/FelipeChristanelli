@@ -9,6 +9,7 @@ Me Chamo Felipe Christanelli e estou trilhando caminho para me tornar um Cientis
 • Cursando a Formação Cientista de Dados na Data Science Academy onde:
 - Quebrei paradigmas aprendendo Linguagem Python;
 - Linguagem Estatística R;
+- Microsoft Power BI;
 - Modelos de Machine Learning;
 - Propriedades do Azure Machine Learning além de
 Exercícios de Big Data na Prática com Modelos de Machine Learning;
