@@ -16,11 +16,11 @@ Exercícios de Big Data na Prática com Modelos de Machine Learning;
 - Processamento de Dados Python com Spark (PySpark): Spark SQL, Spark Streaming, Spark MLlib.
 
 ### Na sequência do Aprendizado
-• Aplicações Business Analytics;
-
 • Engenharia de Dados com Hadoop e Spark;
 
-• Machine Learning e 
+• Machine Learning;
+
+• Aplicações Business Analytics e
 
 • Visualização de Dados e Design de Dashboards.
 
