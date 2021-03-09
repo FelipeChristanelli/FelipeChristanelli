@@ -14,10 +14,10 @@ Me Chamo Felipe Christanelli e estou trilhando caminho para me tornar um Cientis
 - Propriedades do Azure Machine Learning além de
 Exercícios de Big Data na Prática com Modelos de Machine Learning;
 - Processamento de Dados Python com Spark (PySpark): Spark SQL, Spark Streaming, Spark MLlib.
+- Engenharia de Dados com Hadoop e Spark;
+Obs: Todos os cursos com aplicações em SQL
 
 ### Na sequência do Aprendizado
-• Engenharia de Dados com Hadoop e Spark;
-
 • Machine Learning;
 
 • Aplicações Business Analytics e
