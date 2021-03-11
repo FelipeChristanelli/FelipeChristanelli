@@ -20,9 +20,9 @@ Obs: Todos os cursos com aplicações em SQL
 - Introdução à Ciência de Dados
 
 ### Na sequência do Aprendizado
-• Machine Learning;
-• Aplicações Business Analytics e
-• Visualização de Dados e Design de Dashboards.
+- Machine Learning;
+- Aplicações Business Analytics e
+- Visualização de Dados e Design de Dashboards.
 
 
 Amo viajar 🛫
