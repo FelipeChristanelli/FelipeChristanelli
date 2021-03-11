@@ -26,7 +26,9 @@ Obs: Todos os cursos com aplicações em SQL
 
 
 Amo viajar 🛫
+
 Estar com amigos e Família 🍷
+
 e Praticar o bem 🙏
 
 
