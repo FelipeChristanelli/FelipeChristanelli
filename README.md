@@ -11,7 +11,9 @@ Me Chamo Felipe Christanelli e estou trilhando caminho para me tornar um Cientis
 - Big Data Analytics com R e Azure Machine Learning;
 - Big Data Real-Time Analytics com Python e Spark;
 - Engenharia de Dados com Hadoop e Spark;
+
 Obs: Todos os cursos com aplicações em SQL
+
 • Cursos realizados fora da Formação Cientista de Dados:
 - Microsoft Power BI;
 - Big Data Fundamentos e
