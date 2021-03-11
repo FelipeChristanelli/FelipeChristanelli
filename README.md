@@ -21,9 +21,7 @@ Obs: Todos os cursos com aplicações em SQL
 
 ### Na sequência do Aprendizado
 • Machine Learning;
-
 • Aplicações Business Analytics e
-
 • Visualização de Dados e Design de Dashboards.
 
 
