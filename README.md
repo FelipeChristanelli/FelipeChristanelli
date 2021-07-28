@@ -11,7 +11,7 @@ Me Chamo Felipe Christanelli e estou trilhando caminho para me tornar um Cientis
 - Big Data Real-Time Analytics com Python e Spark;
 - Engenharia de Dados com Hadoop e Spark;
 - Machine Learning e
-- Aplicações Business Analytics.
+- Aplicações Business Analytics (em andamento).
 
 Obs: Todos os cursos com aplicações em SQL
 
