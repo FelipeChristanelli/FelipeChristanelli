@@ -13,7 +13,7 @@ Me Chamo Felipe Christanelli e estou trilhando caminho para me tornar um Cientis
 - Machine Learning e
 - Aplicações Business Analytics (em andamento).
 
-Obs: Todos os cursos com aplicações em SQL
+Obs: Primeiros cursos com aplicações em SQL
 
 ### Na sequência do Aprendizado
 - Visualização de Dados e Design de Dashboards.
@@ -28,8 +28,6 @@ Obs: Todos os cursos com aplicações em SQL
 Amo viajar 🛫
 
 Estar com amigos e Família 🍷
-
-e Praticar o bem 🙏
 
 
 
