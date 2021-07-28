@@ -6,16 +6,16 @@ Me Chamo Felipe Christanelli e estou trilhando caminho para me tornar um Cientis
 
 • Graduado em Engenharia Química e 
 
-• Cursando a Formação Cientista de Dados na Data Science Academy onde realizei os cursos de:
+• Cursando a Formação Cientista dse Dados na Data Science Academy onde realizei os cursos de:
 - Big Data Analytics com R e Azure Machine Learning;
 - Big Data Real-Time Analytics com Python e Spark;
 - Engenharia de Dados com Hadoop e Spark;
-- Machine Learning (Em Andamento);
+- Machine Learning e
+- Aplicações Business Analytics.
 
 Obs: Todos os cursos com aplicações em SQL
 
 ### Na sequência do Aprendizado
-- Aplicações Business Analytics e
 - Visualização de Dados e Design de Dashboards.
 
 • Cursos realizados fora da Formação Cientista de Dados:
